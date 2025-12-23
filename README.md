@@ -26,18 +26,22 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+<img width="278" height="92" alt="image" src="https://github.com/user-attachments/assets/d4682bcf-eeec-491f-a161-50eab672c724" />
 
 **To measure RTh or RN**
 
 
+<img width="243" height="80" alt="image" src="https://github.com/user-attachments/assets/6d35f8c1-1a5e-4243-acfc-6401827beddf" />
+
 
 **To measure IN or Isc**
 
- 
-**Thevenin’s equivalent circuit**
+<img width="298" height="78" alt="image" src="https://github.com/user-attachments/assets/0a0e1342-1480-4173-91b6-a160102108a8" />
 
 
 **Norton’s equivalent circuit**
+
+<img width="202" height="127" alt="image" src="https://github.com/user-attachments/assets/34cd4337-8f51-4c88-ba54-5b58d4f2943e" />
 
 
 **PROCEDURE:**
@@ -73,24 +77,29 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **TABULAR COLUMN: 1**
 To measure I L
 
-Vi (volts)	IL (amps)
+<img width="247" height="153" alt="image" src="https://github.com/user-attachments/assets/252f7bce-a94e-4975-8f9d-696b12f3c11b" />
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
-Vi (volts)	RTh (Ω)
+<img width="212" height="135" alt="image" src="https://github.com/user-attachments/assets/204c4945-d86e-4ddd-af87-a74a8798f061" />
+
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
 
-Vi (volts)	IN (amps)
+<img width="256" height="111" alt="image" src="https://github.com/user-attachments/assets/025fe5d3-23ed-4de8-b689-128b0c5c341e" />
+
 	
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
+
+<img width="253" height="161" alt="image" src="https://github.com/user-attachments/assets/066a2711-c435-4e35-b8f4-57e3777ff774" />
+
 
 **Verification of Norton’s theorem**
 
@@ -98,6 +107,15 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+<img width="312" height="542" alt="image" src="https://github.com/user-attachments/assets/c4d6d3c2-8a6e-4c5f-b159-fc2ab83f198f" />
+
+
+<img width="207" height="181" alt="image" src="https://github.com/user-attachments/assets/e662ace4-aa98-4996-ad1c-3de05bef8e80" />
+
+
+
+
+<img width="337" height="397" alt="image" src="https://github.com/user-attachments/assets/4a677199-1a28-4497-bf8a-651e1bf2e911" />
 
 
 **RESULT:**
